@@ -61,9 +61,9 @@ All assignments and projects are due at the start of the class unless otherwise 
   - For 779D there will be three assignments due in the class each worth 12% of your grade. In addition, students in 779D will select, present, and lead discussion on one of the *research papers* listed on the syllabus and this will count for 9% of your grade. 
 - *Final Project Proposal (10%)*
   - You will develop a final integrative data visualization project that utilizes the knowledge you acquire throughout the semester. Your project proposal will describe what you intend to visualize including the data you have acquired, and what you think the story is in the data based on any exploratory visualization and analysis.
-- *Final Project (30%)*
+- *Final Project (25%)*
   - Your final data visualization project should show that you have integrated the knowledge you acquire in this class. Your final grade will incorporate aspects of the design and usability of your visualization, the clarity and newsworthiness of the story, and how much your project has improved through various stages of iteration, criticism, and improvement since the initial project proposal.
-- *Class Participation (15%)*
+- *Class Participation (20%)*
   - Students are expected to read and engage with the assigned texts, and to be prepared to discuss those texts critically. In class you will be assessed according to the insightfulness of contributions, critiques, and questions you raise during class discussion.
   - To show that you are prepared to discuss an assigned article, you should prepare at least one question based on your reading.
 
