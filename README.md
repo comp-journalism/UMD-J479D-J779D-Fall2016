@@ -73,7 +73,6 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ###Schedule###
 ####August 29 - Introduction to Data Visualization####
 
-  
 - **779D Assignment: Research Paper Presentation Out**
   - Research Paper Presentation. [Link]()
 
@@ -87,7 +86,6 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - Additional tutorials / resources
   - JSON. [Link](http://learnxinyminutes.com/docs/json/)
-  - Introduction to MySQL (including interactive lessons) [Link](http://sqlbolt.com/)
 
 - **Assignment One OUT**
   
@@ -117,6 +115,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ####October 17 - Design & Production Practices####
 
+- **Final Project Proposal OUT**
+
 ####October 24 - Visualization Rhetoric, Ethics, and Critique####
 
 - Readings Due
@@ -137,6 +137,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - Heuristics
   - Nielson's List [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Heuristics/Nielson%E2%80%99s%2010%20Usability%20Heuristics.pdf)
   - Vizualization Specific List [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Heuristics/Vis%20Heuristics.pdf)
+
+- **Final Project Proposal DUE**
 
 ####November 7 - Maps####
 
