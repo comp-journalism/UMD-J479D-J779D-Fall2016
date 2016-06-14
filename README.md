@@ -110,7 +110,6 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **Assignment One DUE**
 - **Assignment Two OUT**
 
-
 ####October 3 - Narrative Visualization: Connecting Insights####
 
 - Readings Due
@@ -131,7 +130,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Bostock. Design is a Search Process. [Link](https://www.youtube.com/watch?v=fThhbt23SGM)
   - Unger & Chandler. *Project Guide to UX Design.* Chapter 10: Site Maps and Task Flows [Link]()
   - Unger & Chandler. *Project Guide to UX Design.* Chapter 11: Wireframes and Annotations [Link]()
-  
+
+- **Assignment Two DUE**
+
 - **Final Project Proposal OUT**
 
 ####October 24 - Visualization Rhetoric, Ethics, and Critique####
@@ -141,7 +142,6 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Tufte. *The Visual Display of Quantitative Information.* Graphical Integrity. [Link](https://myelms.umd.edu/files/39864873/download?download_frd=1)
   - Viégas and Wattenberg. Design and Redesign in Data Visualization. [Link](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9)
 
-- **Assignment Two DUE**
 - **Assignment Three OUT**
 
 ####October 31 - User Experience####
@@ -163,6 +163,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Cairo. *The Truthful Art.* Chapter 10: Mapping Data. [Link]()
   - MapSchool [Link](http://mapschool.io/)
   - Ericson. When Maps Shouldn't Be Maps. [Link](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/)
+
+- **Assignment Three DUE**
 
 
 ####November 14 - Network, Timeline, and Text Visualizations####
