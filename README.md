@@ -77,7 +77,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Javascript. [Link](http://learnxinyminutes.com/docs/javascript/)
  
 - **779D Assignment: Research Paper Presentation Out**
-  - Research Paper Presentation. [Link]()
+  - Research Paper Presentation. [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016/wiki/Research-Paper-Presentation)
 
 ####September 5 - No class, Labor Day!####
 
