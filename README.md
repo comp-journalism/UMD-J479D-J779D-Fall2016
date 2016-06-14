@@ -160,7 +160,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ####November 7 - Maps####
 
 - Readings Due
-  - Cairo. The Truthful Art. Chapter 10: Mapping Data. [Link]()
+  - Cairo. *The Truthful Art.* Chapter 10: Mapping Data. [Link]()
   - MapSchool [Link](http://mapschool.io/)
   - Ericson. When Maps Shouldn't Be Maps. [Link](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/)
 
