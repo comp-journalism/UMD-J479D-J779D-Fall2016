@@ -18,7 +18,7 @@ By the end of the course students should expect to have gained:
 
 ####Prerequisites####
 - JOUR352 / JOUR652 (or equivalent experience with CSS / HTML), or permission of the instructor
-- A University statistics course
+- A university-level statistics course
 
 ####Textbook and readings####
 - Alberto Cairo. The Functional Art: An introduction to information graphics and visualization. New Riders. 2012. ISBN-13: 978-0321834737
