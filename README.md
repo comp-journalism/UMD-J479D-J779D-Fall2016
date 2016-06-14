@@ -73,6 +73,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ###Schedule###
 ####August 29 - Introduction to Data Visualization####
 
+- Additional tutorials / resources:
+  - Javascript. [Link](http://learnxinyminutes.com/docs/javascript/)
+ 
 - **779D Assignment: Research Paper Presentation Out**
   - Research Paper Presentation. [Link]()
 
@@ -102,6 +105,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   
 - Recommended Reading
   - Makulec. *Data + Design.* Chapter 14: Anatomy of a Graphic. [Link](https://infoactive.co/data-design/ch14.html)
+  - Groeger. Design Principles for News Apps & Graphics. [Link](http://www.propublica.org/nerds/item/design-principles-for-news-apps-graphics)
 
 - **Assignment One DUE**
 - **Assignment Two OUT**
@@ -109,12 +113,25 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ####October 3 - Narrative Visualization: Connecting Insights####
 
+- Readings Due
+  - Segel & Heer. Narrative Visualization: Telling Stories with Data. IEEE Transactions on Visualization & Computer Graphics. 2010 [Link](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf)
+  - Tufte. *Beautiful Evidence.* The Fundamental Principles of Analytic Design. [Link]()
+  - Cairo. *The Functional Art.* Chapter 9: The Rise of Interactive Graphics. 
 
-  
 ####October 10 - Designing for Visual Perception####
+
+- Readings Due
+  - Cairo. *The Functional Art.* Chapter 6: Visualizing for the Mind
+  - Ware. *Visual Thinking for Design.* Chapter 1: Visual Queries [Link]()
 
 ####October 17 - Design & Production Practices####
 
+- Readings / Viewings Due
+  - Cairo. *The Functional Art.* Chapter 8: Creating Information Graphics
+  - Bostock. Design is a Search Process. [Link](https://www.youtube.com/watch?v=fThhbt23SGM)
+  - Unger & Chandler. *Project Guide to UX Design.* Chapter 10: Site Maps and Task Flows [Link]()
+  - Unger & Chandler. *Project Guide to UX Design.* Chapter 11: Wireframes and Annotations [Link]()
+  
 - **Final Project Proposal OUT**
 
 ####October 24 - Visualization Rhetoric, Ethics, and Critique####
@@ -143,6 +160,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ####November 7 - Maps####
 
 - Readings Due
+  - Cairo. The Truthful Art. Chapter 10: Mapping Data. [Link]()
   - MapSchool [Link](http://mapschool.io/)
   - Ericson. When Maps Shouldn't Be Maps. [Link](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/)
 
