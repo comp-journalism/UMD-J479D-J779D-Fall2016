@@ -110,18 +110,22 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **Assignment One DUE**
 - **Assignment Two OUT**
 
-####October 3 - Narrative Visualization: Connecting Insights####
+####October 3 - Designing for Visual Perception####
+
+- Readings Due
+  - Cairo. *The Functional Art.* Chapter 6: Visualizing for the Mind
+  - Ware. *Visual Thinking for Design.* Chapter 1: Visual Queries [Link](https://myelms.umd.edu/files/44453591/download?download_frd=1)
+
+
+####October 10 - Narrative Visualization: Connecting Insights####
 
 - Readings Due
   - Segel & Heer. Narrative Visualization: Telling Stories with Data. IEEE Transactions on Visualization & Computer Graphics. 2010 [Link](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf)
   - Tufte. *Beautiful Evidence.* The Fundamental Principles of Analytic Design. [Link](https://myelms.umd.edu/files/44453572/download?download_frd=1)
   - Cairo. *The Functional Art.* Chapter 9: The Rise of Interactive Graphics. 
 
-####October 10 - Designing for Visual Perception####
-
-- Readings Due
-  - Cairo. *The Functional Art.* Chapter 6: Visualizing for the Mind
-  - Ware. *Visual Thinking for Design.* Chapter 1: Visual Queries [Link](https://myelms.umd.edu/files/44453591/download?download_frd=1)
+- **Assignment Two DUE**
+- **Final Project Proposal OUT**
 
 ####October 17 - Design & Production Practices####
 
@@ -133,9 +137,6 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Unger & Chandler. *Project Guide to UX Design.* Chapter 10: Site Maps and Task Flows [Link](https://myelms.umd.edu/files/44453584/download?download_frd=1)
   - Unger & Chandler. *Project Guide to UX Design.* Chapter 11: Wireframes and Annotations [Link](https://myelms.umd.edu/files/44453586/download?download_frd=1)
 
-- **Assignment Two DUE**
-
-- **Final Project Proposal OUT**
 
 ####October 24 - Visualization Rhetoric, Ethics, and Critique####
 
@@ -144,6 +145,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Tufte. *The Visual Display of Quantitative Information.* Graphical Integrity. [Link](https://myelms.umd.edu/files/44453574/download?download_frd=1)
   - Viégas and Wattenberg. Design and Redesign in Data Visualization. [Link](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9)
 
+- **Final Project Proposal DUE**
 - **Assignment Three OUT**
 
 ####October 31 - User Experience####
@@ -157,7 +159,6 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Nielson's List [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Heuristics/Nielson%E2%80%99s%2010%20Usability%20Heuristics.pdf)
   - Vizualization Specific List [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Heuristics/Vis%20Heuristics.pdf)
 
-- **Final Project Proposal DUE**
 
 ####November 7 - Maps####
 
