@@ -94,14 +94,14 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   
 ####September 19 - Exploratory Visualization: Finding Insights####
 - Readings Due
-  - Few. *Now You See It.* Chapter 4: Analytic Interaction and Navigation. [Link]()
-  - Few. *Now You See It.* Chapter 5: Analytic Techniques and Practices. [Link]()
+  - Few. *Now You See It.* Chapter 4: Analytic Interaction and Navigation. [Link](https://myelms.umd.edu/files/44453575/download?download_frd=1)
+  - Few. *Now You See It.* Chapter 5: Analytic Techniques and Practices. [Link](https://myelms.umd.edu/files/44453576/download?download_frd=1)
 
 ####September 26 - Visualization Design: Conveying Insights####
 - Readings Due
   - Cairo. *The Functional Art.* Chapter 2: Forms and Functions: Visualizations as a Technology
   - Cairo. *The Functional Art.* Chapter 3: The Beauty Paradox: Art and Communication"
-  - Wong. *WSJ Guide to Information Graphics.* Chapter 1: Basics. [Link]()
+  - Wong. *WSJ Guide to Information Graphics.* Chapter 1: Basics. [Link](https://myelms.umd.edu/files/44453592/download?download_frd=1)
   
 - Recommended Reading
   - Makulec. *Data + Design.* Chapter 14: Anatomy of a Graphic. [Link](https://infoactive.co/data-design/ch14.html)
@@ -114,14 +114,14 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - Readings Due
   - Segel & Heer. Narrative Visualization: Telling Stories with Data. IEEE Transactions on Visualization & Computer Graphics. 2010 [Link](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf)
-  - Tufte. *Beautiful Evidence.* The Fundamental Principles of Analytic Design. [Link]()
+  - Tufte. *Beautiful Evidence.* The Fundamental Principles of Analytic Design. [Link](https://myelms.umd.edu/files/44453572/download?download_frd=1)
   - Cairo. *The Functional Art.* Chapter 9: The Rise of Interactive Graphics. 
 
 ####October 10 - Designing for Visual Perception####
 
 - Readings Due
   - Cairo. *The Functional Art.* Chapter 6: Visualizing for the Mind
-  - Ware. *Visual Thinking for Design.* Chapter 1: Visual Queries [Link]()
+  - Ware. *Visual Thinking for Design.* Chapter 1: Visual Queries [Link](https://myelms.umd.edu/files/44453591/download?download_frd=1)
 
 ####October 17 - Design & Production Practices####
 
@@ -130,8 +130,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - Readings / Viewings Due
   - Cairo. *The Functional Art.* Chapter 8: Creating Information Graphics
   - Bostock. Design is a Search Process. [Link](https://www.youtube.com/watch?v=fThhbt23SGM)
-  - Unger & Chandler. *Project Guide to UX Design.* Chapter 10: Site Maps and Task Flows [Link]()
-  - Unger & Chandler. *Project Guide to UX Design.* Chapter 11: Wireframes and Annotations [Link]()
+  - Unger & Chandler. *Project Guide to UX Design.* Chapter 10: Site Maps and Task Flows [Link](https://myelms.umd.edu/files/44453584/download?download_frd=1)
+  - Unger & Chandler. *Project Guide to UX Design.* Chapter 11: Wireframes and Annotations [Link](https://myelms.umd.edu/files/44453586/download?download_frd=1)
 
 - **Assignment Two DUE**
 
@@ -141,7 +141,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - Readings Due
   - Hullman & Diakopoulos. Visualization Rhetoric: Framing Effects in Narrative Visualization. IEEE Transactions on Visualization & Computer Graphics. 2011. [Link](http://www.nickdiakopoulos.com/Documents/visRhetoric_final_preprint.pdf)
-  - Tufte. *The Visual Display of Quantitative Information.* Graphical Integrity. [Link](https://myelms.umd.edu/files/39864873/download?download_frd=1)
+  - Tufte. *The Visual Display of Quantitative Information.* Graphical Integrity. [Link](https://myelms.umd.edu/files/44453574/download?download_frd=1)
   - Viégas and Wattenberg. Design and Redesign in Data Visualization. [Link](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9)
 
 - **Assignment Three OUT**
@@ -149,9 +149,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ####October 31 - User Experience####
 
 - Readings Due
-  - Krug. *Don't Make Me Think.* Chapter 9: Usability Testing on 10 cents a day. [Link]()
-  - Nielson. *Usability Engineering.* Chapter 2: What is Usability. [Link]()
-  - Nielson. *Usability Engineering.* Chapter 6: Usability Testing. [Link]()
+  - Krug. *Don't Make Me Think.* Chapter 9: Usability Testing on 10 cents a day. [Link](https://myelms.umd.edu/files/44453570/download?download_frd=1)
+  - Nielson. *Usability Engineering.* Chapter 2: What is Usability. [Link](https://myelms.umd.edu/files/44453585/download?download_frd=1)
+  - Nielson. *Usability Engineering.* Chapter 6: Usability Testing. [Link](https://myelms.umd.edu/files/44453583/download?download_frd=1)
 
 - Heuristics
   - Nielson's List [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Heuristics/Nielson%E2%80%99s%2010%20Usability%20Heuristics.pdf)
@@ -171,9 +171,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ####November 14 - Network, Timeline, and Text Visualizations####
 - Readings Due
-  - Meirelles. *Design for Information.* Chapter 2: Relational Structures: Networks. [Link](https://myelms.umd.edu/files/39864887/download?download_frd=1) 
-  - Meirelles. *Design for Information.* Chapter 3: Temporal Structures: Timelines and Flows. [Link](https://myelms.umd.edu/files/39864889/download?download_frd=1) 
-  - Meirelles. *Design for Information.* Chapter 6: Textual Structures. [Link](https://myelms.umd.edu/files/39864895/download?download_frd=1)
+  - Meirelles. *Design for Information.* Chapter 2: Relational Structures: Networks. [Link](https://myelms.umd.edu/files/44453578/download?download_frd=1) 
+  - Meirelles. *Design for Information.* Chapter 3: Temporal Structures: Timelines and Flows. [Link](https://myelms.umd.edu/files/44453579/download?download_frd=1) 
+  - Meirelles. *Design for Information.* Chapter 6: Textual Structures. [Link](https://myelms.umd.edu/files/44453580/download?download_frd=1)
 
 ####November 21 - Final Project Progress Presentations####
 
