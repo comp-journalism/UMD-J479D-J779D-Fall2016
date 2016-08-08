@@ -89,6 +89,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - Recommended Readings
   - J. Stray. The Curious Journalist's Guide to Data. Chapter 3 "Quantification". [Link](https://towcenter.gitbooks.io/curious-journalist-s-guide-to-data/content/quantification/index.html)
+  - C. Groskopf. The Quartz guide to bad data. [Link](https://github.com/Quartz/bad-data-guide)
 
 - **Assignment One OUT**
   
