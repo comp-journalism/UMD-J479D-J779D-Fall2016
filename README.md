@@ -87,8 +87,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - *The Data Journalism Handbook.* Chapter 5: Understanding Data. [Link](http://datajournalismhandbook.org/1.0/en/understanding_data.html)
   - Brademann & Gregory. *Data + Design.* Chapter 8: Data Cleaning. [Link](https://infoactive.co/data-design/ch08.html)
 
-- Additional tutorials / resources
-  - JSON. [Link](http://learnxinyminutes.com/docs/json/)
+- Recommended Readings
+  - J. Stray. The Curious Journalist's Guide to Data. Chapter 3 "Quantification". [Link](https://towcenter.gitbooks.io/curious-journalist-s-guide-to-data/content/quantification/index.html)
 
 - **Assignment One OUT**
   
