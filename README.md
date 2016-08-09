@@ -118,17 +118,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Ware. *Visual Thinking for Design.* Chapter 1: Visual Queries [Link](https://myelms.umd.edu/files/44453591/download?download_frd=1)
 
 
-####October 10 - Narrative Visualization: Connecting Insights####
-
-- Readings Due
-  - Segel & Heer. Narrative Visualization: Telling Stories with Data. IEEE Transactions on Visualization & Computer Graphics. 2010 [Link](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf)
-  - Tufte. *Beautiful Evidence.* The Fundamental Principles of Analytic Design. [Link](https://myelms.umd.edu/files/44453572/download?download_frd=1)
-  - Cairo. *The Functional Art.* Chapter 9: The Rise of Interactive Graphics. 
-
-- **Assignment Two DUE**
-- **Final Project Proposal OUT**
-
-####October 17 - Design & Production Practices####
+####October 10 - Design & Production Practices####
 
 - Guest Speaker: [Lisa Charlotte Rost](http://lisacharlotterost.de/), Open News Fellow at NPR. 
 
@@ -137,6 +127,16 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Bostock. Design is a Search Process. [Link](https://www.youtube.com/watch?v=fThhbt23SGM)
   - Unger & Chandler. *Project Guide to UX Design.* Chapter 10: Site Maps and Task Flows [Link](https://myelms.umd.edu/files/44453584/download?download_frd=1)
   - Unger & Chandler. *Project Guide to UX Design.* Chapter 11: Wireframes and Annotations [Link](https://myelms.umd.edu/files/44453586/download?download_frd=1)
+
+- **Assignment Two DUE**
+- **Final Project Proposal OUT**
+
+####October 17 - Narrative Visualization: Connecting Insights####
+
+- Readings Due
+  - Segel & Heer. Narrative Visualization: Telling Stories with Data. IEEE Transactions on Visualization & Computer Graphics. 2010 [Link](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf)
+  - Tufte. *Beautiful Evidence.* The Fundamental Principles of Analytic Design. [Link](https://myelms.umd.edu/files/44453572/download?download_frd=1)
+  - Cairo. *The Functional Art.* Chapter 9: The Rise of Interactive Graphics. 
 
 
 ####October 24 - Visualization Rhetoric, Ethics, and Critique####
