@@ -5,7 +5,7 @@
 
 **Instructor**: Assistant Professor Dr. Nicholas Diakopoulos, nad@umd.edu, <a href="http://www.nickdiakopoulos.com">nickdiakopoulos.com</a>, <a href="https://www.twitter.com/ndiakopoulos">@ndiakopoulos</a>  
 **Office Hours**: Knight Hall Room 3207 from 4-5pm Mondays, or by appointment  
-**Course Website:** https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016
+**Course Website:** https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016  
 **UMD Course Related Policies:** http://www.ugst.umd.edu/courserelatedpolicies.html
 
 ####Course Description####
