@@ -6,6 +6,7 @@
 **Instructor**: Assistant Professor Dr. Nicholas Diakopoulos, nad@umd.edu, <a href="http://www.nickdiakopoulos.com">nickdiakopoulos.com</a>, <a href="https://www.twitter.com/ndiakopoulos">@ndiakopoulos</a>  
 **Office Hours**: Knight Hall Room 3207 from 4-5pm Mondays, or by appointment  
 **Course Website:** https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016
+**UMD Course Related Policies:** http://www.ugst.umd.edu/courserelatedpolicies.html
 
 ####Course Description####
 This course covers the use of data visualization as a method to communicate news stories (narrative visualization) and as a way to explore and analyze data as a method to find new news stories (visual analytics) in a journalism context. Students will learn to apply core principles of visualization related to perception, color, and visual mapping, while also practicing design skills, and implementing interactive data visualizations using both off-the-shelf tools as well as custom-built code. Critical skills and thinking about data visualization will be developed through the study of rhetoric, advocacy graphics, and ethics. Different types of data will be explored to understand a range of visual forms from networks, to timelines, trees, and maps. Several assignments, both critical and creative in nature, as well as an integrative final project will serve to underscore the concepts taught and provide practice in the craft of visualization.
