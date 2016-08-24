@@ -76,7 +76,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ####August 29 - Introduction to Data Visualization####
 
 - Additional tutorials / resources:
-  - Javascript. [Link](http://learnxinyminutes.com/docs/javascript/)
+  - Javascript. [Link-1](http://learnxinyminutes.com/docs/javascript/) [Link-2](https://www.codecademy.com/learn/javascript)
+  - JQuery [Link](https://www.codecademy.com/learn/jquery)
+  - HTML & CSS [Link](https://www.codecademy.com/learn/web)
  
 - **779D Assignment: Research Paper Presentation Out**
   - Research Paper Presentation. [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016/wiki/Research-Paper-Presentation)
@@ -92,6 +94,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - Recommended Readings
   - J. Stray. The Curious Journalist's Guide to Data. Chapter 3 "Quantification". [Link](https://towcenter.gitbooks.io/curious-journalist-s-guide-to-data/content/quantification/index.html)
   - C. Groskopf. The Quartz guide to bad data. [Link](https://github.com/Quartz/bad-data-guide)
+
+- Additional tutorials / resources:
+  - JSON [Link](http://learnxinyminutes.com/docs/json/)
 
 - **Assignment One OUT**
   
