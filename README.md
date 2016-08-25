@@ -55,6 +55,9 @@ Along with certain rights, students have the responsibility to behave honorably 
 ####Students with Special Needs####
 Students with a specific disability (permanent or temporary, physical or learning) needing special accommodation during the semester should make an appointment to meet with the professor immediately after the first class. Students may be asked to provide the instructor accommodation forms given to them after testing by the Disability Support Service on campus, 301-405-0813
 
+####Learning Assistance Service####
+If you are experiencing difficulties in keeping up with the academic demands of this course, contact the Learning Assistance Service, 2202 Shoemaker Building, 301-314-7693.  Their academic coaches can help with time management, reading, math learning skills, note-taking and exam preparation skills.  All their services are free to UM students.
+
 ####Assignments & Evaluation###
 All assignments and projects are due at the start of the class unless otherwise noted. Detailed instructions for each instruction and project will be provided as per the class schedule. 
 
