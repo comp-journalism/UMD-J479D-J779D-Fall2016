@@ -78,6 +78,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ###Schedule###
 ####August 29 - Introduction to Data Visualization####
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016/blob/master/Slides/1_Intro%20to%20data%20visualization.pptx?raw=true)
 
 - Additional tutorials / resources:
   - Javascript. [Link-1](http://learnxinyminutes.com/docs/javascript/) [Link-2](https://www.codecademy.com/learn/javascript)
