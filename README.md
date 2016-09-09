@@ -102,6 +102,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - Additional tutorials / resources:
   - JSON [Link](http://learnxinyminutes.com/docs/json/)
+  - Where to find data. ProPublica. 2016. [Link](https://projects.propublica.org/graphics/images/data-institute/presentations/finding-loading.pdf)
 
 - **Assignment One OUT**
   
