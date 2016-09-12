@@ -105,6 +105,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Where to find data. ProPublica. 2016. [Link](https://projects.propublica.org/graphics/images/data-institute/presentations/finding-loading.pdf)
 
 - **Assignment One OUT**
+  - Exploratory Visualization for News Finding [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016/wiki/Assignment-%231---Exploratory-Visualization-for-News-Finding) 
   
 ####September 19 - Exploratory Visualization: Finding Insights####
 - Readings Due
