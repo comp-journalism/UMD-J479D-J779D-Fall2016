@@ -92,7 +92,6 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ####September 12 - Data, Data, Data####
 - Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016/blob/master/Slides/2_Datadatadata.pptx?raw=true)
-- 
 - Readings Due
   - Diakopoulos. The Rhetoric of Data. 2013. [Link](http://towcenter.org/blog/the-rhetoric-of-data/)
   - *The Data Journalism Handbook.* Chapter 5: Understanding Data. [Link](http://datajournalismhandbook.org/1.0/en/understanding_data.html)
