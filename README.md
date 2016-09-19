@@ -123,6 +123,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - Recommended Reading
   - Makulec. *Data + Design.* Chapter 14: Anatomy of a Graphic. [Link](https://infoactive.co/data-design/ch14.html)
   - Groeger. Design Principles for News Apps & Graphics. [Link](http://www.propublica.org/nerds/item/design-principles-for-news-apps-graphics)
+  - Financial Times' Visual Vocabulary. [Link](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf )
 
 - **Assignment One DUE**
 - **Assignment Two OUT**
