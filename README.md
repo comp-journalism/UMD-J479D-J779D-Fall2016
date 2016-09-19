@@ -109,6 +109,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Exploratory Visualization for News Finding [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016/wiki/Assignment-%231---Exploratory-Visualization-for-News-Finding) 
   
 ####September 19 - Exploratory Visualization: Finding Insights####
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016/blob/master/Slides/3_Exploratory%20Visualization.pptx?raw=true)
 - Readings Due
   - Few. *Now You See It.* Chapter 4: Analytic Interaction and Navigation. [Link](https://myelms.umd.edu/files/44453575/download?download_frd=1)
   - Few. *Now You See It.* Chapter 5: Analytic Techniques and Practices. [Link](https://myelms.umd.edu/files/44453576/download?download_frd=1)
