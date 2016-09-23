@@ -124,6 +124,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Makulec. *Data + Design.* Chapter 14: Anatomy of a Graphic. [Link](https://infoactive.co/data-design/ch14.html)
   - Groeger. Design Principles for News Apps & Graphics. [Link](http://www.propublica.org/nerds/item/design-principles-for-news-apps-graphics)
   - Financial Times' Visual Vocabulary. [Link](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf )
+  - Emery. Telling a story with a chart. [Link](http://annkemery.com/four-storytelling-strategies/)
 
 - **Assignment One DUE**
 - **Assignment Two OUT**
@@ -155,7 +156,6 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Segel & Heer. Narrative Visualization: Telling Stories with Data. IEEE Transactions on Visualization & Computer Graphics. 2010 [Link](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf)
   - Tufte. *Beautiful Evidence.* The Fundamental Principles of Analytic Design. [Link](https://myelms.umd.edu/files/44453572/download?download_frd=1)
   - Cairo. *The Functional Art.* Chapter 9: The Rise of Interactive Graphics. 
-
 
 ####October 24 - Visualization Rhetoric, Ethics, and Critique####
 
