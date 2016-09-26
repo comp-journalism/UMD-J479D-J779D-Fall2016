@@ -125,6 +125,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Groeger. Design Principles for News Apps & Graphics. [Link](http://www.propublica.org/nerds/item/design-principles-for-news-apps-graphics)
   - Financial Times' Visual Vocabulary. [Link](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf )
   - Emery. Telling a story with a chart. [Link](http://annkemery.com/four-storytelling-strategies/)
+  
+- Tutorials
+  - Vega-Lite [Link](https://vega.github.io/vega-lite/tutorials/getting_started.html)
 
 - **Assignment One DUE**
 - **Assignment Two OUT**
