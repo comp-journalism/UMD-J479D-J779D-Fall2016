@@ -139,7 +139,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - Readings Due
   - Cairo. *The Functional Art.* Chapter 6: Visualizing for the Mind
   - Ware. *Visual Thinking for Design.* Chapter 1: Visual Queries [Link](https://myelms.umd.edu/files/44453591/download?download_frd=1)
-
+  - Ware. *Visual Thinking for Design.* Chapter 4: Color [Link](https://myelms.umd.edu/files/44453589/download?download_frd=1)
 
 ####October 10 - Design & Production Practices####
 
