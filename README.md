@@ -142,6 +142,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Ware. *Visual Thinking for Design.* Chapter 1: Visual Queries [Link](https://myelms.umd.edu/files/44453591/download?download_frd=1)
   - Ware. *Visual Thinking for Design.* Chapter 4: Color [Link](https://myelms.umd.edu/files/44453589/download?download_frd=1)
 
+- Tutorials
+  - Vega Embed Example [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016/blob/master/Tutorials/vega_embed.html)
+
 ####October 10 - Design & Production Practices####
 
 - Guest Speaker: [Lisa Charlotte Rost](http://lisacharlotterost.de/), Open News Fellow at NPR. 
