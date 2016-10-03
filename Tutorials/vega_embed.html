@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<head>
+  <title>Vega Lite Bar Chart</title>
+  <meta charset="utf-8">
+
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://vega.github.io/vega/vega.js"></script>
+  <script src="http://vega.github.io/vega-lite/vega-lite.js"></script>
+  <script src="http://vega.github.io/vega-editor/vendor/vega-embed.js" charset="utf-8"></script>
+
+  <style media="screen">
+    /* Add space between vega-embed links  */
+    .vega-actions a {
+      margin-right: 5px;
+    }
+  </style>
+</head>
+<body>
+  
+  <h2>Number of Fatal Police Shootings by Race</h2>
+  <!-- Container for the visualization -->
+  <div id="vis"></div>
+
+  <script>
+  // Assign the specification to a local variable vlSpec.
+  var visualization_specification = 
+    {
+      "data": {
+        "url": "https://dl.dropbox.com/s/zmocbbp71idg886/fatal-police-shootings-data.csv?dl=0",
+        "format": {"type": "csv"}
+      },
+      "transform": {
+        "calculate": [
+          {
+            "field": "raceLabel",
+            "expr": "if(datum.race=='B', 'Black', datum.race)"
+          },
+          {
+            "field": "raceLabel",
+            "expr": "if(datum.race=='W', 'White', datum.raceLabel)"
+          },
+          {
+            "field": "raceLabel",
+            "expr": "if(datum.race=='H', 'Hispanic', datum.raceLabel)"
+          }
+        ],
+        "filter": {"field": "raceLabel", "in": ["Black", "Hispanic", "White"]}
+      },
+      "mark": "bar",
+      "encoding": {
+        "x": {"field": "raceLabel","type": "nominal"},
+        "y": {"aggregate": "count","field": "*","type": "numerical"},
+        "color": {
+          "field": "race",
+          "type": "nominal",
+          "legend": false,
+          "scale": {
+            "range": [
+              "#888888",
+              "#888888",
+              "#cc8888"
+            ]
+          }
+        }
+      },
+      "config": {"cell": {"fill": "#eeeeee"}}
+    }
+
+  var embedSpec = {
+    mode: "vega-lite",  // Instruct Vega-Embed to use the Vega-Lite compiler
+    spec: visualization_specification,
+    renderer: "svg",
+    actions: false
+    // You can add more vega-embed configuration properties here.
+    // See https://github.com/vega/vega/wiki/Embed-Vega-Web-Components#configuration-propeties for more information.
+  };
+
+  // Embed the visualization in the container with id `vis`
+  vg.embed("#vis", embedSpec, function(error, result) {
+    // Callback receiving the View instance and parsed Vega spec
+    // result.view is the View, which resides under the '#vis' element
+  });
+  </script>
+</body>
+</html>
