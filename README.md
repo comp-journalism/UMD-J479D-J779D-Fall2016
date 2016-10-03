@@ -135,6 +135,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Illustrating a Data-driven News Investigation [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016/wiki/Assignment-%232---Illustrating-a-News-Investigation) 
 
 ####October 3 - Designing for Visual Perception####
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016/blob/master/Slides/5_Designing_for_visual_perception.pptx?raw=true)
 
 - Readings Due
   - Cairo. *The Functional Art.* Chapter 6: Visualizing for the Mind
