@@ -148,7 +148,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ####October 10 - Design & Production Practices####
 
 - Guest Speaker: [Lisa Charlotte Rost](http://lisacharlotterost.de/), Open News Fellow at NPR. 
-
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016/blob/master/Slides/6_Design%20and%20production%20practices.pptx?raw=true)
 - Readings / Viewings Due
   - Cairo. *The Functional Art.* Chapter 8: Creating Information Graphics
   - Bostock. Design is a Search Process. [Link](https://www.youtube.com/watch?v=fThhbt23SGM)
