@@ -157,6 +157,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - **Assignment Two DUE**
 - **Final Project Proposal OUT**
+  - Final Project [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016/wiki/Final-Project)
 
 ####October 17 - Narrative Visualization: Connecting Insights####
 
