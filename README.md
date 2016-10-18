@@ -209,6 +209,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Meirelles. *Design for Information.* Chapter 6: Textual Structures. [Link](https://myelms.umd.edu/files/44453580/download?download_frd=1)
 
 ####November 21 - Final Project Progress Presentations####
+- Readings Due
+  - Irizarry and Connor. Discussing Design: Improving Communication and Collaboration through Critique. Apendix A. The 10 Bad Habits That Hurt Critique. [Link]()
 
 ####November 28 - Final Project Work & Research Paper Presentations####
 
