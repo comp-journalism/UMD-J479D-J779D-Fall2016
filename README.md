@@ -161,6 +161,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Final Project [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016/wiki/Final-Project)
 
 ####October 17 - Narrative Visualization: Connecting Insights####
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016/blob/master/Slides/7_Narrative_Visualization_Connecting_Insights.pptx?raw=true)
 
 - Readings Due
   - Segel & Heer. Narrative Visualization: Telling Stories with Data. IEEE Transactions on Visualization & Computer Graphics. 2010 [Link](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf)
