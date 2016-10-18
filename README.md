@@ -175,8 +175,10 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Tufte. *The Visual Display of Quantitative Information.* Graphical Integrity. [Link](https://myelms.umd.edu/files/44453574/download?download_frd=1)
   - Viégas and Wattenberg. Design and Redesign in Data Visualization. [Link](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9)
 
-- **Final Project Proposal DUE**
 - **Assignment Three OUT**
+
+#### October 28####
+- **Final Project Proposal DUE**
 
 ####October 31 - User Experience####
 
