@@ -210,7 +210,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ####November 21 - Final Project Progress Presentations####
 - Readings Due
-  - Irizarry and Connor. Discussing Design: Improving Communication and Collaboration through Critique. Apendix A. The 10 Bad Habits That Hurt Critique. [Link]()
+  - Irizarry and Connor. Discussing Design: Improving Communication and Collaboration through Critique. Apendix A. The 10 Bad Habits That Hurt Critique. [Link](https://myelms.umd.edu/files/45106062/download?download_frd=1)
 
 ####November 28 - Final Project Work & Research Paper Presentations####
 
