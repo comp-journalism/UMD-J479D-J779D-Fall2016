@@ -183,7 +183,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ####October 31 - User Experience####
 
 - Readings Due
-  - Krug. *Don't Make Me Think.* Chapter 9: Usability Testing on 10 cents a day. [Link](https://myelms.umd.edu/files/44453570/download?download_frd=1)
+  - Krug. *Don't Make Me Think (revisited).* Chapter 9: Usability Testing on 10 cents a day. [Link](https://myelms.umd.edu/files/45123642/download?download_frd=1)
   - Nielson. *Usability Engineering.* Chapter 2: What is Usability. [Link](https://myelms.umd.edu/files/44453585/download?download_frd=1)
   - Nielson. *Usability Engineering.* Chapter 6: Usability Testing. [Link](https://myelms.umd.edu/files/44453583/download?download_frd=1)
 
