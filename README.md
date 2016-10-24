@@ -169,6 +169,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Cairo. *The Functional Art.* Chapter 9: The Rise of Interactive Graphics. 
 
 ####October 24 - Visualization Rhetoric, Ethics, and Critique####
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016/blob/master/Slides/8_Visualization%20Rhetoric%2C%20Ethics%2C%20and%20Critique.pptx)
 
 - Readings Due
   - Hullman & Diakopoulos. Visualization Rhetoric: Framing Effects in Narrative Visualization. IEEE Transactions on Visualization & Computer Graphics. 2011. [Link](http://www.nickdiakopoulos.com/Documents/visRhetoric_final_preprint.pdf)
