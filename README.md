@@ -176,6 +176,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Viégas and Wattenberg. Design and Redesign in Data Visualization. [Link](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9)
 
 - **Assignment Three OUT**
+  - Visualization Critique [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016/wiki/Assignment-%233---Visualization-Critique)
 
 #### October 28####
 - **Final Project Proposal DUE**
