@@ -183,6 +183,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **Final Project Proposal DUE**
 
 ####October 31 - User Experience####
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016/blob/master/Slides/9_User-Experience.pptx?raw=true)
 
 - Readings Due
   - Krug. *Don't Make Me Think (revisited).* Chapter 9: Usability Testing on 10 cents a day. [Link](https://myelms.umd.edu/files/45123642/download?download_frd=1)
