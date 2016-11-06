@@ -205,6 +205,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - Recommended Reading
   - Ingraham. The dirty little secret that data journalists aren’t telling you. Washington Post. [Link](https://www.washingtonpost.com/news/wonk/wp/2016/04/11/the-dirty-little-secret-that-data-journalists-arent-telling-you/)
 
+- In-class Tutorials
+  - Carto Academy [Link](https://carto.com/academy/)
+
 - **Assignment Three DUE**
 
 
