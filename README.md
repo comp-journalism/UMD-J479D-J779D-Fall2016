@@ -201,6 +201,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Cairo. *The Truthful Art.* Chapter 10: Mapping Data. [Link](https://myelms.umd.edu/files/45239470/download?download_frd=1)
   - MapSchool [Link](http://mapschool.io/)
   - Ericson. When Maps Shouldn't Be Maps. [Link](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/)
+  
+- Recommended Reading
+  - Ingraham. The dirty little secret that data journalists aren’t telling you. Washington Post. [Link](https://www.washingtonpost.com/news/wonk/wp/2016/04/11/the-dirty-little-secret-that-data-journalists-arent-telling-you/)
 
 - **Assignment Three DUE**
 
