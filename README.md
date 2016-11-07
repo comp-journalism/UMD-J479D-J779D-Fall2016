@@ -196,6 +196,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 
 ####November 7 - Maps####
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016/blob/master/Slides/10_mapping.pptx?raw=true)
 
 - Readings Due
   - Cairo. *The Truthful Art.* Chapter 10: Mapping Data. [Link](https://myelms.umd.edu/files/45239470/download?download_frd=1)
