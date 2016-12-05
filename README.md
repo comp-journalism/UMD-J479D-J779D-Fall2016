@@ -213,6 +213,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 
 ####November 14 - Network, Timeline, and Text Visualizations####
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016/blob/master/Slides/11_Networks_timelines_texts.pptx?raw=true)
+
 - Readings Due
   - Meirelles. *Design for Information.* Chapter 2: Relational Structures: Networks. [Link](https://myelms.umd.edu/files/44453578/download?download_frd=1) 
   - Meirelles. *Design for Information.* Chapter 3: Temporal Structures: Timelines and Flows. [Link](https://myelms.umd.edu/files/44453579/download?download_frd=1) 
@@ -225,7 +227,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ####November 28 - Final Project Work & Research Paper Presentations####
 
 ####December 5 - Emerging Topics: Mobile, Artistic, & Collaborative Visualization####
-
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2016/blob/master/Slides/13_Mobile%20Artistic%20Collaborative%20Vis.pptx?raw=true)
 - Readings Due
   - Heer et al. Voyagers and Voyeurs: Supporting Asynchronous Collaborative Visualization. Communications of the ACM. 2009. [Link](http://vis.stanford.edu/files/2009-Voyagers-CACM.pdf)
   - Florit. The Boston Globe’s Gabriel Florit on Responsive Visualizations. [Link](https://source.opennews.org/en-US/articles/boston-globes-gabriel-florit-responsive-visualizat/)
